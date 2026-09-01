@@ -1,0 +1,1082 @@
+[
+  {
+    "customer_id": "CUST-2824",
+    "session_id": "509d81a7",
+    "order_id": "ORD-100000",
+    "dark_store_id": "DS-001",
+    "cart_value": 1878.72,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:16:11.703536"
+  },
+  {
+    "customer_id": "CUST-1409",
+    "session_id": "da22ac20",
+    "order_id": "ORD-100001",
+    "dark_store_id": "DS-002",
+    "cart_value": 1723.08,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:16:20.703536"
+  },
+  {
+    "customer_id": "CUST-5506",
+    "session_id": "c642b21e",
+    "order_id": "ORD-100002",
+    "dark_store_id": "DS-010",
+    "cart_value": 1111.61,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:16:25.703536"
+  },
+  {
+    "customer_id": "CUST-5012",
+    "session_id": "2df68c10",
+    "order_id": "ORD-100003",
+    "dark_store_id": "DS-004",
+    "cart_value": 1311.85,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:16:44.703536"
+  },
+  {
+    "customer_id": "CUST-4657",
+    "session_id": "e38567df",
+    "order_id": "ORD-100004",
+    "dark_store_id": "DS-009",
+    "cart_value": 1105.85,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:16:55.703536"
+  },
+  {
+    "customer_id": "CUST-3286",
+    "session_id": "5e90c826",
+    "order_id": "ORD-100005",
+    "dark_store_id": "DS-001",
+    "cart_value": 1920.14,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:17:16.703536"
+  },
+  {
+    "customer_id": "CUST-2679",
+    "session_id": "32b7a47c",
+    "order_id": "ORD-100006",
+    "dark_store_id": "DS-006",
+    "cart_value": 765.89,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:17:59.703536"
+  },
+  {
+    "customer_id": "CUST-9935",
+    "session_id": "9929d3b9",
+    "order_id": "ORD-100007",
+    "dark_store_id": "DS-002",
+    "cart_value": 321.59,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:17:56.703536"
+  },
+  {
+    "customer_id": "CUST-2424",
+    "session_id": "f2709b81",
+    "order_id": "ORD-100008",
+    "dark_store_id": "DS-010",
+    "cart_value": 733.85,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:18:19.703536"
+  },
+  {
+    "customer_id": "CUST-7912",
+    "session_id": "5dd987f3",
+    "order_id": "ORD-100009",
+    "dark_store_id": "DS-009",
+    "cart_value": 398.58,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:19:02.703536"
+  },
+  {
+    "customer_id": "CUST-1520",
+    "session_id": "5b52f124",
+    "order_id": "ORD-100010",
+    "dark_store_id": "DS-009",
+    "cart_value": 802.63,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:17:21.703536"
+  },
+  {
+    "customer_id": "CUST-1488",
+    "session_id": "d380c66a",
+    "order_id": "ORD-100011",
+    "dark_store_id": "DS-010",
+    "cart_value": 560.49,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:19:07.703536"
+  },
+  {
+    "customer_id": "CUST-2535",
+    "session_id": "23a076a3",
+    "order_id": "ORD-100012",
+    "dark_store_id": "DS-005",
+    "cart_value": 2463.53,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:18:35.703536"
+  },
+  {
+    "customer_id": "CUST-4582",
+    "session_id": "dcb883f9",
+    "order_id": "ORD-100013",
+    "dark_store_id": "DS-007",
+    "cart_value": 766.14,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:17:55.703536"
+  },
+  {
+    "customer_id": "CUST-4811",
+    "session_id": "1a97f9de",
+    "order_id": "ORD-100014",
+    "dark_store_id": "DS-003",
+    "cart_value": 987.43,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:19:55.703536"
+  },
+  {
+    "customer_id": "CUST-9279",
+    "session_id": "f24eec91",
+    "order_id": "ORD-100015",
+    "dark_store_id": "DS-002",
+    "cart_value": 1560.91,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:19:26.703536"
+  },
+  {
+    "customer_id": "CUST-1434",
+    "session_id": "1b3f120e",
+    "order_id": "ORD-100016",
+    "dark_store_id": "DS-003",
+    "cart_value": 1208.42,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:19:23.703536"
+  },
+  {
+    "customer_id": "CUST-4257",
+    "session_id": "edd51981",
+    "order_id": "ORD-100017",
+    "dark_store_id": "DS-006",
+    "cart_value": 2121.84,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:19:35.703536"
+  },
+  {
+    "customer_id": "CUST-9928",
+    "session_id": "1fbf22ba",
+    "order_id": "ORD-100018",
+    "dark_store_id": "DS-001",
+    "cart_value": 2031.11,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:19:47.703536"
+  },
+  {
+    "customer_id": "CUST-7873",
+    "session_id": "f63db42d",
+    "order_id": "ORD-100019",
+    "dark_store_id": "DS-004",
+    "cart_value": 2290.53,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:18:24.703536"
+  },
+  {
+    "customer_id": "CUST-4611",
+    "session_id": "74ceba8b",
+    "order_id": "ORD-100020",
+    "dark_store_id": "DS-004",
+    "cart_value": 1672.05,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:21:11.703536"
+  },
+  {
+    "customer_id": "CUST-8359",
+    "session_id": "f6841ff3",
+    "order_id": "ORD-100021",
+    "dark_store_id": "DS-003",
+    "cart_value": 734.71,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:22:50.703536"
+  },
+  {
+    "customer_id": "CUST-5557",
+    "session_id": "e23fbb16",
+    "order_id": "ORD-100022",
+    "dark_store_id": "DS-010",
+    "cart_value": 1127.24,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:20:57.703536"
+  },
+  {
+    "customer_id": "CUST-1106",
+    "session_id": "7a2ea08c",
+    "order_id": "ORD-100023",
+    "dark_store_id": "DS-004",
+    "cart_value": 2492.58,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:22:19.703536"
+  },
+  {
+    "customer_id": "CUST-3615",
+    "session_id": "bb981191",
+    "order_id": "ORD-100024",
+    "dark_store_id": "DS-002",
+    "cart_value": 1912.88,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:24:11.703536"
+  },
+  {
+    "customer_id": "CUST-7924",
+    "session_id": "5449a4b0",
+    "order_id": "ORD-100025",
+    "dark_store_id": "DS-003",
+    "cart_value": 1999.99,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:19:56.703536"
+  },
+  {
+    "customer_id": "CUST-6574",
+    "session_id": "66947412",
+    "order_id": "ORD-100026",
+    "dark_store_id": "DS-007",
+    "cart_value": 1014.89,
+    "order_status": "cancelled",
+    "timestamp": "2026-09-01T11:19:13.703536"
+  },
+  {
+    "customer_id": "CUST-5552",
+    "session_id": "9d323d40",
+    "order_id": "ORD-100027",
+    "dark_store_id": "DS-009",
+    "cart_value": 2164.87,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:22:02.703536"
+  },
+  {
+    "customer_id": "CUST-3547",
+    "session_id": "391b5f96",
+    "order_id": "ORD-100028",
+    "dark_store_id": "DS-009",
+    "cart_value": 1901.11,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:19:55.703536"
+  },
+  {
+    "customer_id": "CUST-4527",
+    "session_id": "b16acc6a",
+    "order_id": "ORD-100029",
+    "dark_store_id": "DS-002",
+    "cart_value": 803.4,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:23:26.703536"
+  },
+  {
+    "customer_id": "CUST-6514",
+    "session_id": "3217a549",
+    "order_id": "ORD-100030",
+    "dark_store_id": "DS-005",
+    "cart_value": 2431.53,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:18:41.703536"
+  },
+  {
+    "customer_id": "CUST-2674",
+    "session_id": "a3b56606",
+    "order_id": "ORD-100031",
+    "dark_store_id": "DS-005",
+    "cart_value": 2119.01,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:20:19.703536"
+  },
+  {
+    "customer_id": "CUST-2519",
+    "session_id": "9e3071f6",
+    "order_id": "ORD-100032",
+    "dark_store_id": "DS-003",
+    "cart_value": 996.39,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:22:03.703536"
+  },
+  {
+    "customer_id": "CUST-7224",
+    "session_id": "74a2c3a2",
+    "order_id": "ORD-100033",
+    "dark_store_id": "DS-010",
+    "cart_value": 876.97,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:18:56.703536"
+  },
+  {
+    "customer_id": "CUST-2584",
+    "session_id": "efc0c39e",
+    "order_id": "ORD-100034",
+    "dark_store_id": "DS-005",
+    "cart_value": 673.69,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:25:15.703536"
+  },
+  {
+    "customer_id": "CUST-6881",
+    "session_id": "1a66a706",
+    "order_id": "ORD-100035",
+    "dark_store_id": "DS-002",
+    "cart_value": 1855.58,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:20:16.703536"
+  },
+  {
+    "customer_id": "CUST-6635",
+    "session_id": "5a2166a8",
+    "order_id": "ORD-100036",
+    "dark_store_id": "DS-003",
+    "cart_value": 1682.4,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:21:35.703536"
+  },
+  {
+    "customer_id": "CUST-5333",
+    "session_id": "4824a8b1",
+    "order_id": "ORD-100037",
+    "dark_store_id": "DS-005",
+    "cart_value": 1365.42,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:22:21.703536"
+  },
+  {
+    "customer_id": "CUST-1711",
+    "session_id": "b87f5421",
+    "order_id": "ORD-100038",
+    "dark_store_id": "DS-009",
+    "cart_value": 1911.64,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:23:09.703536"
+  },
+  {
+    "customer_id": "CUST-8527",
+    "session_id": "981c2d3f",
+    "order_id": "ORD-100039",
+    "dark_store_id": "DS-007",
+    "cart_value": 2487.36,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:25:17.703536"
+  },
+  {
+    "customer_id": "CUST-9785",
+    "session_id": "bd4f7360",
+    "order_id": "ORD-100040",
+    "dark_store_id": "DS-009",
+    "cart_value": 1182.57,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:28:51.703536"
+  },
+  {
+    "customer_id": "CUST-3045",
+    "session_id": "216b6bad",
+    "order_id": "ORD-100041",
+    "dark_store_id": "DS-006",
+    "cart_value": 149.48,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:20:58.703536"
+  },
+  {
+    "customer_id": "CUST-7201",
+    "session_id": "5effc773",
+    "order_id": "ORD-100042",
+    "dark_store_id": "DS-001",
+    "cart_value": 269.38,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:24:35.703536"
+  },
+  {
+    "customer_id": "CUST-2291",
+    "session_id": "d73675f5",
+    "order_id": "ORD-100043",
+    "dark_store_id": "DS-002",
+    "cart_value": 2272.01,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:24:47.703536"
+  },
+  {
+    "customer_id": "CUST-5803",
+    "session_id": "d7b4e682",
+    "order_id": "ORD-100044",
+    "dark_store_id": "DS-009",
+    "cart_value": 670.21,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:21:19.703536"
+  },
+  {
+    "customer_id": "CUST-6925",
+    "session_id": "06f0de9c",
+    "order_id": "ORD-100045",
+    "dark_store_id": "DS-009",
+    "cart_value": 416.55,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:24:26.703536"
+  },
+  {
+    "customer_id": "CUST-4150",
+    "session_id": "5d41975a",
+    "order_id": "ORD-100046",
+    "dark_store_id": "DS-004",
+    "cart_value": 1982.09,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:31:31.703536"
+  },
+  {
+    "customer_id": "CUST-2139",
+    "session_id": "87e16cc1",
+    "order_id": "ORD-100047",
+    "dark_store_id": "DS-002",
+    "cart_value": 331.63,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:24:48.703536"
+  },
+  {
+    "customer_id": "CUST-1750",
+    "session_id": "68bfbf49",
+    "order_id": "ORD-100048",
+    "dark_store_id": "DS-007",
+    "cart_value": 1219.86,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:30:35.703536"
+  },
+  {
+    "customer_id": "CUST-4733",
+    "session_id": "43af506e",
+    "order_id": "ORD-100049",
+    "dark_store_id": "DS-001",
+    "cart_value": 1065.29,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:22:43.703536"
+  },
+  {
+    "customer_id": "CUST-5741",
+    "session_id": "1d27f423",
+    "order_id": "ORD-100050",
+    "dark_store_id": "DS-004",
+    "cart_value": 558.82,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:22:51.703536"
+  },
+  {
+    "customer_id": "CUST-2307",
+    "session_id": "d325bc98",
+    "order_id": "ORD-100051",
+    "dark_store_id": "DS-007",
+    "cart_value": 539.37,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:23:50.703536"
+  },
+  {
+    "customer_id": "CUST-4814",
+    "session_id": "323fc9a0",
+    "order_id": "ORD-100052",
+    "dark_store_id": "DS-008",
+    "cart_value": 2038.25,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:22:15.703536"
+  },
+  {
+    "customer_id": "CUST-2654",
+    "session_id": "2b9b91e6",
+    "order_id": "ORD-100053",
+    "dark_store_id": "DS-001",
+    "cart_value": 1664.15,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:23:15.703536"
+  },
+  {
+    "customer_id": "CUST-7227",
+    "session_id": "6f050b5a",
+    "order_id": "ORD-100054",
+    "dark_store_id": "DS-002",
+    "cart_value": 2322.28,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:20:41.703536"
+  },
+  {
+    "customer_id": "CUST-5554",
+    "session_id": "35008228",
+    "order_id": "ORD-100055",
+    "dark_store_id": "DS-007",
+    "cart_value": 1264.54,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:25:21.703536"
+  },
+  {
+    "customer_id": "CUST-8428",
+    "session_id": "8f7ba070",
+    "order_id": "ORD-100056",
+    "dark_store_id": "DS-001",
+    "cart_value": 494.13,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:32:03.703536"
+  },
+  {
+    "customer_id": "CUST-6977",
+    "session_id": "2bd3d64a",
+    "order_id": "ORD-100057",
+    "dark_store_id": "DS-005",
+    "cart_value": 2322.64,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:32:20.703536"
+  },
+  {
+    "customer_id": "CUST-3664",
+    "session_id": "0a471d68",
+    "order_id": "ORD-100058",
+    "dark_store_id": "DS-007",
+    "cart_value": 1770.82,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:29:43.703536"
+  },
+  {
+    "customer_id": "CUST-7065",
+    "session_id": "6f50beba",
+    "order_id": "ORD-100059",
+    "dark_store_id": "DS-003",
+    "cart_value": 554.75,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:35:51.703536"
+  },
+  {
+    "customer_id": "CUST-6820",
+    "session_id": "6a02ace1",
+    "order_id": "ORD-100060",
+    "dark_store_id": "DS-010",
+    "cart_value": 1864.77,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:22:11.703536"
+  },
+  {
+    "customer_id": "CUST-4432",
+    "session_id": "bf473101",
+    "order_id": "ORD-100061",
+    "dark_store_id": "DS-001",
+    "cart_value": 219.34,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:31:26.703536"
+  },
+  {
+    "customer_id": "CUST-5374",
+    "session_id": "689b289d",
+    "order_id": "ORD-100062",
+    "dark_store_id": "DS-001",
+    "cart_value": 2404.87,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:26:31.703536"
+  },
+  {
+    "customer_id": "CUST-2169",
+    "session_id": "c14b7856",
+    "order_id": "ORD-100063",
+    "dark_store_id": "DS-002",
+    "cart_value": 1527.08,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:26:41.703536"
+  },
+  {
+    "customer_id": "CUST-3803",
+    "session_id": "96894e4b",
+    "order_id": "ORD-100064",
+    "dark_store_id": "DS-007",
+    "cart_value": 386.73,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:28:59.703536"
+  },
+  {
+    "customer_id": "CUST-9751",
+    "session_id": "9a867604",
+    "order_id": "ORD-100065",
+    "dark_store_id": "DS-010",
+    "cart_value": 1525.85,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:29:11.703536"
+  },
+  {
+    "customer_id": "CUST-5010",
+    "session_id": "d2eebc4d",
+    "order_id": "ORD-100066",
+    "dark_store_id": "DS-010",
+    "cart_value": 1455.54,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:35:59.703536"
+  },
+  {
+    "customer_id": "CUST-3677",
+    "session_id": "ba2c53ee",
+    "order_id": "ORD-100067",
+    "dark_store_id": "DS-004",
+    "cart_value": 1706.34,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:30:42.703536"
+  },
+  {
+    "customer_id": "CUST-8573",
+    "session_id": "37fc8148",
+    "order_id": "ORD-100068",
+    "dark_store_id": "DS-007",
+    "cart_value": 413.11,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:30:55.703536"
+  },
+  {
+    "customer_id": "CUST-7216",
+    "session_id": "e39108a1",
+    "order_id": "ORD-100069",
+    "dark_store_id": "DS-006",
+    "cart_value": 2328.64,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:38:02.703536"
+  },
+  {
+    "customer_id": "CUST-5422",
+    "session_id": "e2635627",
+    "order_id": "ORD-100070",
+    "dark_store_id": "DS-008",
+    "cart_value": 1589.78,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:22:01.703536"
+  },
+  {
+    "customer_id": "CUST-4598",
+    "session_id": "77586803",
+    "order_id": "ORD-100071",
+    "dark_store_id": "DS-002",
+    "cart_value": 1389.32,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:25:39.703536"
+  },
+  {
+    "customer_id": "CUST-6313",
+    "session_id": "327663d6",
+    "order_id": "ORD-100072",
+    "dark_store_id": "DS-006",
+    "cart_value": 2213.07,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:26:59.703536"
+  },
+  {
+    "customer_id": "CUST-1916",
+    "session_id": "c74013a7",
+    "order_id": "ORD-100073",
+    "dark_store_id": "DS-005",
+    "cart_value": 477.59,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:35:39.703536"
+  },
+  {
+    "customer_id": "CUST-4752",
+    "session_id": "4bd8d036",
+    "order_id": "ORD-100074",
+    "dark_store_id": "DS-010",
+    "cart_value": 2460.25,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:33:27.703536"
+  },
+  {
+    "customer_id": "CUST-1525",
+    "session_id": "e9d52ebf",
+    "order_id": "ORD-100075",
+    "dark_store_id": "DS-009",
+    "cart_value": 817.51,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:22:26.703536"
+  },
+  {
+    "customer_id": "CUST-6168",
+    "session_id": "d805d31f",
+    "order_id": "ORD-100076",
+    "dark_store_id": "DS-005",
+    "cart_value": 376.03,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:27:35.703536"
+  },
+  {
+    "customer_id": "CUST-7572",
+    "session_id": "1513fd25",
+    "order_id": "ORD-100077",
+    "dark_store_id": "DS-005",
+    "cart_value": 775.22,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:27:44.703536"
+  },
+  {
+    "customer_id": "CUST-5386",
+    "session_id": "ca69bdb7",
+    "order_id": "ORD-100078",
+    "dark_store_id": "DS-004",
+    "cart_value": 1748.99,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:35:41.703536"
+  },
+  {
+    "customer_id": "CUST-2084",
+    "session_id": "ad39d1c2",
+    "order_id": "ORD-100079",
+    "dark_store_id": "DS-005",
+    "cart_value": 2271.81,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:42:31.703536"
+  },
+  {
+    "customer_id": "CUST-4456",
+    "session_id": "93f9d947",
+    "order_id": "ORD-100080",
+    "dark_store_id": "DS-007",
+    "cart_value": 2089.44,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:25:31.703536"
+  },
+  {
+    "customer_id": "CUST-6155",
+    "session_id": "be7efd79",
+    "order_id": "ORD-100081",
+    "dark_store_id": "DS-003",
+    "cart_value": 1628.07,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:36:26.703536"
+  },
+  {
+    "customer_id": "CUST-4483",
+    "session_id": "cf380af3",
+    "order_id": "ORD-100082",
+    "dark_store_id": "DS-009",
+    "cart_value": 1792.6,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:42:09.703536"
+  },
+  {
+    "customer_id": "CUST-9179",
+    "session_id": "e30200bc",
+    "order_id": "ORD-100083",
+    "dark_store_id": "DS-002",
+    "cart_value": 2367.12,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:27:15.703536"
+  },
+  {
+    "customer_id": "CUST-7482",
+    "session_id": "1e61770e",
+    "order_id": "ORD-100084",
+    "dark_store_id": "DS-009",
+    "cart_value": 185.47,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:28:47.703536"
+  },
+  {
+    "customer_id": "CUST-8517",
+    "session_id": "31e68a2b",
+    "order_id": "ORD-100085",
+    "dark_store_id": "DS-007",
+    "cart_value": 404.87,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:28:56.703536"
+  },
+  {
+    "customer_id": "CUST-3340",
+    "session_id": "69c08246",
+    "order_id": "ORD-100086",
+    "dark_store_id": "DS-006",
+    "cart_value": 603.18,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:24:47.703536"
+  },
+  {
+    "customer_id": "CUST-5339",
+    "session_id": "7d0c4730",
+    "order_id": "ORD-100087",
+    "dark_store_id": "DS-006",
+    "cart_value": 1971.28,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:27:47.703536"
+  },
+  {
+    "customer_id": "CUST-3287",
+    "session_id": "42b6052b",
+    "order_id": "ORD-100088",
+    "dark_store_id": "DS-010",
+    "cart_value": 1897.75,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:42:35.703536"
+  },
+  {
+    "customer_id": "CUST-5040",
+    "session_id": "a44f8f34",
+    "order_id": "ORD-100089",
+    "dark_store_id": "DS-003",
+    "cart_value": 2441.89,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:33:59.703536"
+  },
+  {
+    "customer_id": "CUST-9830",
+    "session_id": "17beb52c",
+    "order_id": "ORD-100090",
+    "dark_store_id": "DS-001",
+    "cart_value": 529.47,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:43:11.703536"
+  },
+  {
+    "customer_id": "CUST-5304",
+    "session_id": "969f8d19",
+    "order_id": "ORD-100091",
+    "dark_store_id": "DS-004",
+    "cart_value": 739.33,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:43:29.703536"
+  },
+  {
+    "customer_id": "CUST-8019",
+    "session_id": "34a438d8",
+    "order_id": "ORD-100092",
+    "dark_store_id": "DS-007",
+    "cart_value": 2192.2,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:28:27.703536"
+  },
+  {
+    "customer_id": "CUST-7543",
+    "session_id": "b8854aa3",
+    "order_id": "ORD-100093",
+    "dark_store_id": "DS-004",
+    "cart_value": 2058.81,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:34:47.703536"
+  },
+  {
+    "customer_id": "CUST-6930",
+    "session_id": "7cf2eae5",
+    "order_id": "ORD-100094",
+    "dark_store_id": "DS-004",
+    "cart_value": 634.02,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:38:07.703536"
+  },
+  {
+    "customer_id": "CUST-4593",
+    "session_id": "3c5e727d",
+    "order_id": "ORD-100095",
+    "dark_store_id": "DS-006",
+    "cart_value": 767.65,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:43:06.703536"
+  },
+  {
+    "customer_id": "CUST-3266",
+    "session_id": "39b64ccf",
+    "order_id": "ORD-100096",
+    "dark_store_id": "DS-006",
+    "cart_value": 1638.56,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:36:59.703536"
+  },
+  {
+    "customer_id": "CUST-9348",
+    "session_id": "8adf8282",
+    "order_id": "ORD-100097",
+    "dark_store_id": "DS-001",
+    "cart_value": 375.82,
+    "order_status": "cancelled",
+    "timestamp": "2026-09-01T11:40:26.703536"
+  },
+  {
+    "customer_id": "CUST-9085",
+    "session_id": "917e3298",
+    "order_id": "ORD-100098",
+    "dark_store_id": "DS-010",
+    "cart_value": 2409.08,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:32:31.703536"
+  },
+  {
+    "customer_id": "CUST-2489",
+    "session_id": "e6650d3c",
+    "order_id": "ORD-100099",
+    "dark_store_id": "DS-010",
+    "cart_value": 1141.95,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:29:23.703536"
+  },
+  {
+    "customer_id": "CUST-1771",
+    "session_id": "bca14a75",
+    "order_id": "ORD-100100",
+    "dark_store_id": "DS-007",
+    "cart_value": 1553.9,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:41:11.703536"
+  },
+  {
+    "customer_id": "CUST-2796",
+    "session_id": "f57cdc82",
+    "order_id": "ORD-100101",
+    "dark_store_id": "DS-010",
+    "cart_value": 555.19,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:44:48.703536"
+  },
+  {
+    "customer_id": "CUST-3504",
+    "session_id": "4b6fe526",
+    "order_id": "ORD-100102",
+    "dark_store_id": "DS-001",
+    "cart_value": 1346.81,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:46:47.703536"
+  },
+  {
+    "customer_id": "CUST-3621",
+    "session_id": "5204e321",
+    "order_id": "ORD-100103",
+    "dark_store_id": "DS-006",
+    "cart_value": 1134.11,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:35:04.703536"
+  },
+  {
+    "customer_id": "CUST-7916",
+    "session_id": "5fa201cf",
+    "order_id": "ORD-100104",
+    "dark_store_id": "DS-010",
+    "cart_value": 852.4,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:42:11.703536"
+  },
+  {
+    "customer_id": "CUST-2040",
+    "session_id": "efd5183d",
+    "order_id": "ORD-100105",
+    "dark_store_id": "DS-009",
+    "cart_value": 841.28,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:40:41.703536"
+  },
+  {
+    "customer_id": "CUST-7304",
+    "session_id": "eb49a456",
+    "order_id": "ORD-100106",
+    "dark_store_id": "DS-005",
+    "cart_value": 1429.59,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:46:13.703536"
+  },
+  {
+    "customer_id": "CUST-7252",
+    "session_id": "966890a0",
+    "order_id": "ORD-100107",
+    "dark_store_id": "DS-003",
+    "cart_value": 1576.24,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:46:30.703536"
+  },
+  {
+    "customer_id": "CUST-8668",
+    "session_id": "aa8aa80f",
+    "order_id": "ORD-100108",
+    "dark_store_id": "DS-005",
+    "cart_value": 787.59,
+    "order_status": "packed",
+    "timestamp": "2026-09-01T11:25:11.703536"
+  },
+  {
+    "customer_id": "CUST-9669",
+    "session_id": "b317afb7",
+    "order_id": "ORD-100109",
+    "dark_store_id": "DS-008",
+    "cart_value": 1159.29,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:43:26.703536"
+  },
+  {
+    "customer_id": "CUST-5119",
+    "session_id": "a2173040",
+    "order_id": "ORD-100110",
+    "dark_store_id": "DS-003",
+    "cart_value": 1680.24,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:52:51.703536"
+  },
+  {
+    "customer_id": "CUST-1188",
+    "session_id": "091f7769",
+    "order_id": "ORD-100111",
+    "dark_store_id": "DS-002",
+    "cart_value": 2063.22,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:43:56.703536"
+  },
+  {
+    "customer_id": "CUST-2876",
+    "session_id": "987a67af",
+    "order_id": "ORD-100112",
+    "dark_store_id": "DS-004",
+    "cart_value": 2034.75,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:42:19.703536"
+  },
+  {
+    "customer_id": "CUST-9797",
+    "session_id": "748e09d4",
+    "order_id": "ORD-100113",
+    "dark_store_id": "DS-004",
+    "cart_value": 2460.45,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:27:29.703536"
+  },
+  {
+    "customer_id": "CUST-5371",
+    "session_id": "05554008",
+    "order_id": "ORD-100114",
+    "dark_store_id": "DS-008",
+    "cart_value": 1093.66,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:29:29.703536"
+  },
+  {
+    "customer_id": "CUST-6573",
+    "session_id": "c6fae428",
+    "order_id": "ORD-100115",
+    "dark_store_id": "DS-007",
+    "cart_value": 1285.51,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:37:16.703536"
+  },
+  {
+    "customer_id": "CUST-2827",
+    "session_id": "fabfa4e5",
+    "order_id": "ORD-100116",
+    "dark_store_id": "DS-002",
+    "cart_value": 1967.21,
+    "order_status": "placed",
+    "timestamp": "2026-09-01T11:25:51.703536"
+  },
+  {
+    "customer_id": "CUST-5808",
+    "session_id": "17c253a6",
+    "order_id": "ORD-100117",
+    "dark_store_id": "DS-001",
+    "cart_value": 1436.77,
+    "order_status": "delivered",
+    "timestamp": "2026-09-01T11:53:14.703536"
+  },
+  {
+    "customer_id": "CUST-8123",
+    "session_id": "9b4f6111",
+    "order_id": "ORD-100118",
+    "dark_store_id": "DS-008",
+    "cart_value": 419.01,
+    "order_status": "picked_up",
+    "timestamp": "2026-09-01T11:31:55.703536"
+  },
+  {
+    "customer_id": "CUST-3591",
+    "session_id": "0c5d0f28",
+    "order_id": "ORD-100119",
+    "dark_store_id": "DS-008",
+    "cart_value": 1569.37,
+    "order_status": "out_for_delivery",
+    "timestamp": "2026-09-01T11:45:56.703536"
+  }
+]
